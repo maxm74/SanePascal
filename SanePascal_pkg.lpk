@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Package Version="5">
+    <Name Value="SanePascal_pkg"/>
+    <Author Value="Massimo Magnano"/>
+    <CompilerOptions>
+      <Version Value="11"/>
+      <SearchPaths>
+        <UnitOutputDirectory Value="lib/$(TargetCPU)-$(TargetOS)"/>
+      </SearchPaths>
+      <CodeGeneration>
+        <Optimizations>
+          <OptimizationLevel Value="0"/>
+        </Optimizations>
+      </CodeGeneration>
+    </CompilerOptions>
+    <Description Value="Sane (libsane) features for Free Pascal and Delphi"/>
+    <Version Major="1" Minor="3" Release="1"/>
+    <Files>
+      <Item>
+        <Filename Value="sane.pas"/>
+        <UnitName Value="sane"/>
+      </Item>
+      <Item>
+        <Filename Value="saneopts.pas"/>
+        <UnitName Value="saneopts"/>
+      </Item>
+      <Item>
+        <Filename Value="DelphiCompatibility.pas"/>
+        <UnitName Value="DelphiCompatibility"/>
+      </Item>
+    </Files>
+    <RequiredPkgs>
+      <Item>
+        <PackageName Value="FCL"/>
+      </Item>
+    </RequiredPkgs>
+    <UsageOptions>
+      <UnitPath Value="$(PkgOutDir)"/>
+    </UsageOptions>
+    <PublishOptions>
+      <Version Value="2"/>
+      <UseFileFilters Value="True"/>
+    </PublishOptions>
+  </Package>
+</CONFIG>

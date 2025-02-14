@@ -1,0 +1,65 @@
+{ This is an automatically generated lazarus resource file }
+
+LazarusResources.Add('TScannerForm','FORMDATA',[
+  'TPF0'#12'TScannerForm'#11'ScannerForm'#4'Left'#3#176#0#6'Height'#3#132#2#3'T'
+  +'op'#2'O'#5'Width'#3'\'#4#18'HorzScrollBar.Page'#3'|'#3#18'VertScrollBar.Pag'
+  +'e'#3#2#2#13'ActiveControl'#7#6'Panel3'#7'Caption'#6#15'PascalSane Demo'#12
+  +'ClientHeight'#3#132#2#11'ClientWidth'#3'\'#4#13'DesignTimePPI'#2'x'#8'OnCre'
+  +'ate'#7#10'FormCreate'#0#6'TPanel'#6'Panel1'#4'Left'#2#0#6'Height'#2'z'#3'To'
+  +'p'#3#10#2#5'Width'#3'\'#4#5'Align'#7#8'alBottom'#12'ClientHeight'#2'z'#11'C'
+  +'lientWidth'#3'\'#4#8'TabOrder'#2#0#0#9'TGroupBox'#9'GroupBox3'#4'Left'#2#13
+  +#6'Height'#2'`'#3'Top'#2#13#5'Width'#3#246#2#5'Align'#7#8'alClient'#20'Borde'
+  +'rSpacing.Around'#2#12#12'ClientHeight'#2'^'#11'ClientWidth'#3#244#2#8'TabOr'
+  +'der'#2#0#0#5'TEdit'#12'FileNameEdit'#4'Left'#3#20#1#6'Height'#2'#'#3'Top'#2
+  +#22#5'Width'#3#229#0#8'TabOrder'#2#0#4'Text'#6#10'~/test.pnm'#0#0#7'TButton'
+  +#14'ScanFileButton'#4'Left'#2#16#6'Height'#2#31#3'Top'#2#20#5'Width'#3#230#0
+  +#7'Caption'#6#12'Scan to file'#7'Enabled'#8#8'TabOrder'#2#1#7'OnClick'#7#19
+  +'ScanFileButtonClick'#0#0#0#9'TGroupBox'#9'GroupBox5'#4'Left'#3#15#3#6'Heigh'
+  +'t'#2'`'#3'Top'#2#13#5'Width'#3'@'#1#5'Align'#7#7'alRight'#20'BorderSpacing.'
+  +'Around'#2#12#12'ClientHeight'#2'^'#11'ClientWidth'#3'>'#1#8'TabOrder'#2#1#0
+  +#7'TButton'#18'ScanToScreenButton'#4'Left'#2#16#6'Height'#2#31#3'Top'#2#20#5
+  +'Width'#3#220#0#7'Caption'#6#14'Scan to screen'#7'Enabled'#8#8'TabOrder'#2#0
+  +#7'OnClick'#7#23'ScanToScreenButtonClick'#0#0#0#0#6'TPanel'#6'Panel2'#4'Left'
+  +#3#2#3#6'Height'#3#10#2#3'Top'#2#0#5'Width'#3'Z'#1#5'Align'#7#7'alRight'#12
+  +'ClientHeight'#3#10#2#11'ClientWidth'#3'Z'#1#8'TabOrder'#2#1#0#9'TGroupBox'#9
+  +'GroupBox4'#4'Left'#2#13#6'Height'#3#240#1#3'Top'#2#13#5'Width'#3'@'#1#5'Ali'
+  +'gn'#7#7'alRight'#20'BorderSpacing.Around'#2#12#12'ClientHeight'#3#238#1#11
+  +'ClientWidth'#3'>'#1#8'TabOrder'#2#0#0#6'TImage'#6'Image1'#4'Left'#2#16#6'He'
+  +'ight'#3'c'#1#3'Top'#2'Q'#5'Width'#3#16#1#7'Stretch'#9#0#0#6'TLabel'#13'Prog'
+  +'ressLabel'#4'Left'#2#16#6'Height'#2#1#3'Top'#2'3'#5'Width'#2#1#11'ParentCol'
+  +'or'#8#0#0#7'TButton'#10'ScanButton'#4'Left'#2#16#6'Height'#2#31#3'Top'#2#11
+  +#5'Width'#3#220#0#7'Caption'#6#12'Scan Preview'#7'Enabled'#8#8'TabOrder'#2#0
+  +#7'OnClick'#7#15'ScanButtonClick'#0#0#0#0#6'TPanel'#6'Panel3'#4'Left'#2#0#6
+  +'Height'#3#10#2#3'Top'#2#0#5'Width'#3#2#3#5'Align'#7#8'alClient'#12'ClientHe'
+  +'ight'#3#10#2#11'ClientWidth'#3#2#3#8'TabOrder'#2#2#0#9'TGroupBox'#9'GroupBo'
+  +'x1'#4'Left'#2#13#6'Height'#3#190#0#3'Top'#2#13#5'Width'#3#232#2#5'Align'#7#5
+  +'alTop'#20'BorderSpacing.Around'#2#12#12'ClientHeight'#3#188#0#11'ClientWidt'
+  +'h'#3#230#2#8'TabOrder'#2#0#0#6'TLabel'#6'Label3'#4'Left'#2#10#6'Height'#2#23
+  +#3'Top'#2#20#5'Width'#3#128#0#7'Caption'#6#16'Detected devices'#11'ParentCol'
+  +'or'#8#0#0#6'TLabel'#6'Label2'#4'Left'#3#10#1#6'Height'#2#23#3'Top'#2'v'#5'W'
+  +'idth'#2'+'#7'Caption'#6#4'Mode'#11'ParentColor'#8#0#0#6'TLabel'#6'Label1'#4
+  +'Left'#2#10#6'Height'#2#23#3'Top'#2'v'#5'Width'#2'Q'#7'Caption'#6#10'Resolut'
+  +'ion'#11'ParentColor'#8#0#0#6'TLabel'#16'UnsupportedLabel'#4'Left'#2'v'#6'He'
+  +'ight'#2#23#3'Top'#2'v'#5'Width'#2'e'#7'Caption'#6#11'Unsupported'#11'Parent'
+  +'Color'#8#7'Visible'#8#0#0#7'TButton'#13'RefreshButton'#4'Left'#3#24#2#6'Hei'
+  +'ght'#2#31#3'Top'#2'2'#5'Width'#3#180#0#7'Caption'#6#15'Refresh Devices'#8'T'
+  +'abOrder'#2#0#7'OnClick'#7#18'RefreshButtonClick'#0#0#9'TComboBox'#9'ComboBo'
+  +'x2'#4'Left'#3'P'#1#6'Height'#2'#'#3'Top'#2'o'#5'Width'#3#190#0#10'ItemHeigh'
+  +'t'#2#0#8'TabOrder'#2#1#0#0#9'TSpinEdit'#14'ResolutionEdit'#4'Left'#2'x'#6'H'
+  +'eight'#2'!'#3'Top'#2'r'#5'Width'#2'\'#8'TabOrder'#2#2#5'Value'#2#1#0#0#9'TC'
+  +'omboBox'#9'ComboBox1'#4'Left'#2#11#6'Height'#2'#'#3'Top'#2'2'#5'Width'#3#3#2
+  +#10'ItemHeight'#2#0#8'TabOrder'#2#3#4'Text'#6'"Refresh Devices to detect sca'
+  +'nners'#8'OnChange'#7#15'ComboBox1Change'#0#0#9'TComboBox'#15'ResolutionComb'
+  +'o'#4'Left'#2'x'#6'Height'#2'#'#3'Top'#2'o'#5'Width'#2'}'#10'ItemHeight'#2#0
+  +#8'TabOrder'#2#4#4'Text'#6#15'ResolutionCombo'#7'Visible'#8#0#0#9'TCheckBox'
+  +#13'SaneTestCheck'#4'Left'#3' '#2#6'Height'#2#25#3'Top'#2#16#5'Width'#3#138#0
+  +#7'Caption'#6#14'Show sane-test'#8'TabOrder'#2#5#0#0#0#9'TGroupBox'#9'GroupB'
+  +'ox2'#4'Left'#2#13#6'Height'#3'&'#1#3'Top'#3#215#0#5'Width'#3#232#2#5'Align'
+  +#7#8'alClient'#20'BorderSpacing.Around'#2#12#12'ClientHeight'#3'$'#1#11'Clie'
+  +'ntWidth'#3#230#2#8'TabOrder'#2#1#8'OnResize'#7#15'GroupBox2Resize'#0#7'TBut'
+  +'ton'#13'OptionsButton'#4'Left'#3'@'#2#6'Height'#2#31#3'Top'#2#11#5'Width'#3
+  +#146#0#7'Caption'#6#12'List options'#7'Enabled'#8#8'TabOrder'#2#0#7'OnClick'
+  +#7#18'OptionsButtonClick'#0#0#5'TMemo'#5'Memo1'#4'Left'#2#11#6'Height'#3#239
+  +#0#3'Top'#2#11#5'Width'#3'%'#2#10'ScrollBars'#7#10'ssAutoBoth'#8'TabOrder'#2
+  +#1#0#0#0#0#0
+]);
